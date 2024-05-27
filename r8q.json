@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1716145454,
-      "filename": "lineage-21.0-20240519-UNOFFICIAL-r8q-signed.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc4",
+      "datetime": 1716827100,
+      "filename": "lineage-21.0-20240527-UNOFFICIAL-r8q-signed.zip",
+      "id": "5eb63bbbe01eeed093cb22bb8f5acdc6",
       "romtype": "unofficial",
-      "size": 1418212476,
-      "url": "https://github.com/ata-kaner/los-ota/releases/download/2024-05-19/lineage-21.0-20240519-UNOFFICIAL-r8q-signed.zip",
+      "size": 1437470800,
+      "url": "https://github.com/ata-kaner/los-ota/releases/download/2024-05-27/lineage-21.0-20240527-UNOFFICIAL-r8q-signed.zip",
       "version": "21.0"
     }
   ]
